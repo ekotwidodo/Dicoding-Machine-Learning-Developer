@@ -1,0 +1,8 @@
+Submission 1 - NLP
+https://www.kaggle.com/hgultekin/bbcnewsarchive
+
+Submission 2 - Time Series
+https://www.kaggle.com/robikscube/hourly-energy-consumption
+
+Submission 3 (Final) - Image Classification
+https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
