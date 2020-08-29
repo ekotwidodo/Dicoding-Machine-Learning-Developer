@@ -10,6 +10,15 @@ Learning Path
 - [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184)
 - [Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185)
 
+Latihan
+- [Memulai Pemrograman dengan Python](https://github.com/ekoteguhw/dicoding-ml/tree/master/02-pemrograman-python)
+  - [Python Dasar](https://github.com/ekoteguhw/dicoding-ml/blob/master/02-pemrograman-python/01-python-dasar.ipynb)
+  - [Python OOP](https://github.com/ekoteguhw/dicoding-ml/blob/master/02-pemrograman-python/02-python-oop.ipynb)
+  - [Python Numpy](https://github.com/ekoteguhw/dicoding-ml/blob/master/02-pemrograman-python/03-python-numpy.ipynb)
+  - [Python Pandas](https://github.com/ekoteguhw/dicoding-ml/blob/master/02-pemrograman-python/04-python-pandas.ipynb)
+- [Belajar Dasar Visualisasi Data](https://github.com/ekoteguhw/dicoding-ml/tree/master/01-visualisasi-data)
+  - [Python Advanced](https://github.com/ekoteguhw/dicoding-ml/blob/master/01-visualisasi-data/case-study.ipynb)
+
 Submissions
 - [Belajar Machine Learning untuk Pemula](https://nbviewer.jupyter.org/github/ekoteguhw/dicoding-ml/blob/master/03-ml-pemula/Submission%20Final%20-%20Image%20Classification.ipynb)
 - [Belajar Pengembangan Machine Learning](https://github.com/ekoteguhw/dicoding-ml/tree/master/04-ml-intermediate)
@@ -26,4 +35,7 @@ Bukti Kelulusan
 Fasilitator - IDCamp BPML 2020
 - [Ahmad Emir Alfatah](https://www.linkedin.com/in/aemiralfath/)
 
+
 Thanks to IDCamp BPML Ahmad Emir A (WAG)
+
+[Eko Teguh Widodo](https://www.linkedin.com/in/ekoteguhw/)
