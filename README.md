@@ -1,6 +1,6 @@
 ## Machine Learning Path
 
-![ML Path Dicoding Academy](https://www12.lunapic.com/do-not-link-here-use-hosting-instead/159866755443301054?5294548519)
+![ML Path Dicoding Academy](https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_developer_logo_160920145824.png)
 
 Playground untuk belajar machine learning dari [Dicoding Academy](https://www.dicoding.com/learningpaths/30).
 
@@ -38,4 +38,4 @@ Fasilitator - IDCamp BPML 2020
 
 Thanks to IDCamp BPML Ahmad Emir A (WAG)
 
-[Eko Teguh Widodo](https://www.linkedin.com/in/ekoteguhw/)
+[Eko Teguh Widodo](https://www.linkedin.com/in/ekoteguh/)
