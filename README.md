@@ -1,6 +1,6 @@
 ## Machine Learning Path
 
-![ML Path Dicoding Academy](https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_developer_logo_160920145824.png =150x150)
+<img src="https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_developer_logo_160920145824.png" alt="ML Path Dicoding Academy" width="200" height="200"/>
 
 Playground untuk belajar machine learning dari [Dicoding Academy](https://www.dicoding.com/learningpaths/30).
 
