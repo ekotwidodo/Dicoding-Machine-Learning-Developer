@@ -1,6 +1,6 @@
 ## Machine Learning Path
 
-<img src="https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_developer_logo_160920145824.png" alt="ML Path Dicoding Academy" width="200" height="200"/>
+![Machine Learning Developer](screenshoot.jpg)
 
 Playground untuk belajar machine learning dari [Dicoding Academy](https://www.dicoding.com/learningpaths/30).
 
@@ -9,6 +9,8 @@ Learning Path
 - [Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86)
 - [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184)
 - [Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185)
+- [Machine Learning Terapan](https://www.dicoding.com/academies/319)
+- [Machine Learning Operations (MLOps)](https://www.dicoding.com/academies/443)
 
 Latihan
 - [Memulai Pemrograman dengan Python](https://github.com/lab-ekoteguh/idcamp-dicoding-ml/tree/master/02-pemrograman-python)
@@ -35,7 +37,10 @@ Bukti Kelulusan
 Fasilitator - IDCamp BPML 2020
 - [Ahmad Emir Alfatah](https://www.linkedin.com/in/aemiralfath/)
 
-
 Thanks to IDCamp BPML Ahmad Emir A (WAG)
 
+My Profile
 [Eko Teguh Widodo](https://www.linkedin.com/in/ekoteguh/)
+
+Notes:
+Machine Learning Terapan dan Machine Learning Operations dikerjakan setelah program ID Camp BPML 2020 selesai
